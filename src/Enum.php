@@ -1,6 +1,6 @@
 <?php
 
-namespace Suleymanozev\EnumField;
+namespace Aguila\EnumField;
 
 use Laravel\Nova\Fields\Select;
 use Laravel\Nova\Http\Requests\NovaRequest;
